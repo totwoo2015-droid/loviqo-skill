@@ -1,0 +1,13 @@
+{
+  "name": "loviqo-skill",
+  "owner": {
+    "name": "totwoo"
+  },
+  "plugins": [
+    {
+      "name": "loviqo",
+      "source": "./",
+      "description": "Connect Loviqo notes, recordings and to-dos via MCP"
+    }
+  ]
+}
